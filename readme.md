@@ -1,3 +1,3 @@
-# Git and Github Course
+<!-- # Git and Github Course -->
 
-Crach course for Git
+<!-- Crach course for Git -->
